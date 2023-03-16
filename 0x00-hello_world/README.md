@@ -4,4 +4,5 @@
 - ***[1. Compiler](./1-compiler)***
 - ***[2. Assembler](./2-assembler)***
 - ***[3. Name](./3-name)***
+- ***[4. Hello, puts](./4-puts.c)***
 
