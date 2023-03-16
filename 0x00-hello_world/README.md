@@ -8,4 +8,5 @@
 - ***[5. Hello, printf](./5-printf.c)***
 - ***[6. Size is not grandeur, and territory does not make a nation](./6-size.c)***
 - ***[7. Intel](./100-intel)***
+- ***[8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity](./101-quote.c)***
 
