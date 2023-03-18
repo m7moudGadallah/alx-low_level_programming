@@ -6,4 +6,5 @@
 - ***[3. alphABET](./3-print_alphabets.c)***
 - ***[4. When I was having that alphabet soup, I never thought that it would pay off](./4-print_alphabt.c)***
 - ***[5. Numbers](./5-print_numbers.c)***
+- ***[6. Numberz](./6-print_numberz.c)***
 
