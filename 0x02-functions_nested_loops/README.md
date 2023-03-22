@@ -9,4 +9,5 @@
 - ***[6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you](./6-abs.c)***
 - ***[7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important](./7-print_last_digit.c)***
 - ***[8. I'm federal agent Jack Bauer, and today is the longest day of my life](./8-24_hours.c)***
+- ***[9. Learn your times table](./9-times_table.c)***
 
