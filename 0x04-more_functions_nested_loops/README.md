@@ -11,4 +11,5 @@
 - ***[7. I feel like I am diagonally parked in a parallel universe](./7-print_diagonal.c)***
 - ***[8. You are so much sunshine in every square inch](./8-print_square.c)***
 - ***[9. Fizz-Buzz](./9-fizz_buzz.c)***
+- ***[10. Triangles](./10-print_triangle.c)***
 
