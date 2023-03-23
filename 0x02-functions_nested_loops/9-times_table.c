@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -6,31 +7,17 @@
 void times_table(void)
 {
 	register int i, j;
-	int res;
 
-	for (i = 0; i < 10; i++)
+	for (i = 0; i <= 9; i++)
 	{
-		_putchar('0');
+		printf("0");
 
-		for (j = 1; j < 10; j++)
+		for (j = 1; j <= 9; j++)
 		{
-			res = i * j;
-
-			_putchar(',');
-			_putchar(' ');
-
-			if (res > 10)
-			{
-				_putchar('0' + ((res / 10) % 10));
-			}
-			else
-			{
-				_putchar(' ');
-			}
-
-			_putchar('0' + (res % 10));
+			printf(", ");
+			printf("%2d", i * j);
 		}
 
-		_putchar('\n');
+		printf("\n");
 	}
 }
