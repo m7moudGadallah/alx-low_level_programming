@@ -9,4 +9,5 @@
 - ***[5. Numbers constitute the only universal language](./5-more_numbers.c)***
 - ***[6. The shortest distance between two points is a straight line](./6-print_line.c)***
 - ***[7. I feel like I am diagonally parked in a parallel universe](./7-print_diagonal.c)***
+- ***[8. You are so much sunshine in every square inch](./8-print_square.c)***
 
