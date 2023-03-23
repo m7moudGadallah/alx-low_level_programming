@@ -16,7 +16,7 @@ int main(void)
 
 	printf("1, 2");
 
-	for (i = 2; i <= 98; i++)
+	for (i = 2; i < 98; i++)
 	{
 		curr = pp + p;
 		pp = p;
