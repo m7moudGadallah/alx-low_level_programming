@@ -8,7 +8,7 @@
 int main(void)
 {
 	long int pp, p, curr, ans;
-	
+
 	pp = 1;
 	p = 1;
 	curr = 0;
