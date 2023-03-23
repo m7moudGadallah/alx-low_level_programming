@@ -13,7 +13,7 @@ int main(void)
 	pp = 1;
 	p = 2;
 
-	printf("1");
+	printf("1, 2");
 
 	for (i = 2; i < 50; i++)
 	{
