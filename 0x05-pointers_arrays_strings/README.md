@@ -13,4 +13,5 @@
 |6. Half the lies they tell about me aren't true|[6-puts2.c](./6-puts2.c)|
 |7. Winning is only half of it. Having fun is the other half|[7-puts_half.c](./7-puts_half.c)|
 |8. Arrays are not pointers|[8-print_array.c](./8-print_array.c)|
+|9. strcpy|[9-strcpy.c](./9-strcpy.c)|
 
