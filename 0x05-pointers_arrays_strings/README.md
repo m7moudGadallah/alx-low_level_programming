@@ -10,4 +10,5 @@
 |3. I do not fear computers. I fear the lack of them|[3-puts.c](./3-puts.c)<br> [_putchar.c](./_putchar.c)|
 |4. I can only go one way. I've not got a reverse gear|[4-print_rev.c](./4-print_rev.c)|
 |5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes|[5-rev_string.c](./5-rev_string.c)|
+|6. Half the lies they tell about me aren't true|[6-puts2.c](./6-puts2.c)|
 
