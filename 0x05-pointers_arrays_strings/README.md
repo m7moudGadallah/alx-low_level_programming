@@ -14,4 +14,5 @@
 |7. Winning is only half of it. Having fun is the other half|[7-puts_half.c](./7-puts_half.c)|
 |8. Arrays are not pointers|[8-print_array.c](./8-print_array.c)|
 |9. strcpy|[9-strcpy.c](./9-strcpy.c)|
+|10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers|[100-atoi.c](./100-atoi.c)|
 
