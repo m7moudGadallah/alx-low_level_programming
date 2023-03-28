@@ -11,4 +11,5 @@
 |4. I can only go one way. I've not got a reverse gear|[4-print_rev.c](./4-print_rev.c)|
 |5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes|[5-rev_string.c](./5-rev_string.c)|
 |6. Half the lies they tell about me aren't true|[6-puts2.c](./6-puts2.c)|
+|7. Winning is only half of it. Having fun is the other half|[7-puts_half.c](./7-puts_half.c)|
 
