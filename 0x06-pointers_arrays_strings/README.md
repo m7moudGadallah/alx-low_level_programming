@@ -14,4 +14,5 @@ Acess Header file from [here](./main.h) `main.h`
 |7. Mozart composed his music not for the elite, but for everybody|[7-leet.c](./7-leet.c)|
 |8. rot13|[100-rot13.c](./100-rot13.c)|
 |9. Numbers have life; they're not just symbols on paper|[101-print_number.c](./101-print_number.c)|
+|10. A dream doesn't become reality through magic; it takes sweat, determination and hard work|[102-magic.c](./102-magic.c)|
 
