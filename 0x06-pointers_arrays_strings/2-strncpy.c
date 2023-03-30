@@ -26,6 +26,7 @@ char *_strncpy(char *dest, char *src, int n)
 	while (n)
 	{
 		*ptr = '\0';
+		++ptr;
 		--n;
 	}
 
