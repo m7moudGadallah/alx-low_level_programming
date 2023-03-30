@@ -12,4 +12,5 @@ Acess Header file from [here](./main.h) `main.h`
 |5. Always look up|[5-string_toupper.c](./5-string_toupper.c)|
 |6. Expect the best. Prepare for the worst. Capitalize on what comes|[6-cap_string.c](./6-cap_string.c)|
 |7. Mozart composed his music not for the elite, but for everybody|[7-leet.c](./7-leet.c)|
+|8. rot13|[100-rot13.c](./100-rot13.c)|
 
