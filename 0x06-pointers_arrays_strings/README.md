@@ -9,4 +9,5 @@ Acess Header file from [here](./main.h) `main.h`
 |2. strncpy|[2-strncpy.c](./2-strncpy.c)|
 |3. strcmp|[3-strcmp.c](./3-strcmp.c)|
 |4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy|[4-rev_array.c](./4-rev_array.c)|
+|5. Always look up|[5-string_toupper.c](./5-string_toupper.c)|
 
