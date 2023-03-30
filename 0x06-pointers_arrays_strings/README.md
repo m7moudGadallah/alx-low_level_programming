@@ -11,4 +11,5 @@ Acess Header file from [here](./main.h) `main.h`
 |4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy|[4-rev_array.c](./4-rev_array.c)|
 |5. Always look up|[5-string_toupper.c](./5-string_toupper.c)|
 |6. Expect the best. Prepare for the worst. Capitalize on what comes|[6-cap_string.c](./6-cap_string.c)|
+|7. Mozart composed his music not for the elite, but for everybody|[7-leet.c](./7-leet.c)|
 
