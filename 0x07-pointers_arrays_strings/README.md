@@ -1,2 +1,8 @@
 # 0x07. C - Even more pointers, arrays and strings
 
+Acess Header file from [here](./main.h) `main.h`  
+
+|Task|Files|
+|----|-----|
+|1. memcpy|[1-memcpy.c](./1-memcpy.c)|
+
