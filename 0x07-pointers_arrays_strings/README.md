@@ -13,4 +13,5 @@ Acess Header file from [here](./main.h) `main.h`
 |6. Chess is mental torture|[7-print_chessboard.c](./7-print_chessboard.c)|
 |7. The line of life is a ragged diagonal between duty and desire|[8-print_diagsums.c](./8-print_diagsums.c)|
 |8. Double pointer, double fun|[100-set_string.c](./100-set_string.c)|
+|9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure|[101-crackme_password](./101-crackme_password)|
 
