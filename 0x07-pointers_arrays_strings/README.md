@@ -7,4 +7,5 @@ Acess Header file from [here](./main.h) `main.h`
 |0. memset|[0-memset.c](./0-memset.c)|
 |1. memcpy|[1-memcpy.c](./1-memcpy.c)|
 |2. strchr|[2-strchr.c](./2-strchr.c)|
+|3. strspn|[3-strspn.c](./3-strspn.c)|
 
