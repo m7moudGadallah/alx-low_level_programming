@@ -8,4 +8,5 @@ Acess Header file from [here](./main.h) `main.h`
 |1. memcpy|[1-memcpy.c](./1-memcpy.c)|
 |2. strchr|[2-strchr.c](./2-strchr.c)|
 |3. strspn|[3-strspn.c](./3-strspn.c)|
+|4. strpbrk|[4-strpbrk.c](./4-strpbrk.c)|
 
