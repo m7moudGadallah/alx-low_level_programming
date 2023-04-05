@@ -10,4 +10,5 @@ Acess Header file from [here](./main.h) `main.h`
 |3. You mustn't be afraid to dream a little bigger, darling|[3-factorial.c](./3-factorial.c)|
 |4. Once an idea has taken hold of the brain it's almost impossible to eradicate|[4-pow_recursion.c](./4-pow_recursion.c)|
 |5. Your subconscious is looking for the dreamer|[5-sqrt_recursion.c](./5-sqrt_recursion.c)|
+|6. Inception. Is it possible?|[6-is_prime_number.c](./6-is_prime_number.c)|
 
