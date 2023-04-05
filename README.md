@@ -8,4 +8,5 @@
 - ***[0x05. C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)***
 - ***[0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)***
 - ***[0x07. C - Even more pointers, arrays and strings](./0x07-pointers_arrays_strings)***
+- ***[0x08. C - Recursion](./0x08-recursion)***
 
