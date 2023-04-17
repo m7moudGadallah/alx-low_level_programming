@@ -1,7 +1,6 @@
 # 0x0D. C - Preprocessor
 
-Access header file [main.h](./main.h)  
-
 |Task|Files|
 |----|-----|
+|0. Object-like Macro|[0-object_like_macro.h](./0-object_like_macro.h)|
 
