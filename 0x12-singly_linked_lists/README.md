@@ -5,4 +5,5 @@ Hearder file [lists.h](./lists.h)
 |Task|Files|
 |----|-----|
 |0. Print list|[0-print_list.c](./0-print_list.c)|
+|1. List length|[1-list_len.c](./1-list_len.c)|
 
