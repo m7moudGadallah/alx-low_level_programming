@@ -4,4 +4,5 @@ Hearder file [lists.h](./lists.h)
 
 |Task|Files|
 |----|-----|
+|0. Print list|[0-print_list.c](./0-print_list.c)|
 
