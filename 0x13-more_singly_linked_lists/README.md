@@ -14,4 +14,5 @@ Header file [lists.h](./lists.h)
 |7. Get node at index|[7-get_nodeint.c](./7-get_nodeint.c)|
 |8. Sum list|[8-sum_listint.c](./8-sum_listint.c)|
 |9. Insert|[9-insert_nodeint.c](./9-insert_nodeint.c)|
+|10. Delete at index|[10-delete_nodeint.c](./10-delete_nodeint.c)|
 
