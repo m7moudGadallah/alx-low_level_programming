@@ -12,4 +12,5 @@ Header file [lists.h](./lists.h)
 |5. Free|[5-free_listint2.c](./5-free_listint2.c)|
 |6. Pop|[6-pop_listint.c](./6-pop_listint.c)|
 |7. Get node at index|[7-get_nodeint.c](./7-get_nodeint.c)|
+|8. Sum list|[8-sum_listint.c](./8-sum_listint.c)|
 
