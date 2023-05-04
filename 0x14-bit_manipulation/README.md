@@ -9,4 +9,5 @@ Header file [main.h](./main.h)
 |2. 10|[2-get_bit.c](./2-get_bit.c)|
 |3. 11|[3-set_bit.c](./3-set_bit.c)|
 |4. 100|[4-clear_bit.c](./4-clear_bit.c)|
+|5. 101|[5-flip_bits.c](./5-flip_bits.c)|
 
