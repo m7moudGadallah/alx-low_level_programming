@@ -10,4 +10,5 @@ Access header file ***[lists.h](./lists.h)***
 |3. Add node at the end|[3-add_dnodeint_end.c](./3-add_dnodeint_end.c)|
 |4. Free list|[4-free_dlistint.c](./4-free_dlistint.c)|
 |5. Get node at index|[5-get_dnodeint.c](./5-get_dnodeint.c)|
+|6. Sum list|[6-sum_dlistint.c](./6-sum_dlistint.c)|
 
