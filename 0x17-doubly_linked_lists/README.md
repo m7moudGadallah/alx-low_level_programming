@@ -8,4 +8,5 @@ Access header file ***[lists.h](./lists.h)***
 |1. List length|[1-dlistint_len.c](./1-dlistint_len.c)|
 |2. Add node|[2-add_dnodeint.c](./2-add_dnodeint.c)|
 |3. Add node at the end|[3-add_dnodeint_end.c](./3-add_dnodeint_end.c)|
+|4. Free list|[4-free_dlistint.c](./4-free_dlistint.c)|
 
